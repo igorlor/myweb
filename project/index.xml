@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project-rsses on Personal Website</title>
-    <link>https://example.com/project/index.xml</link>
+    <link>https://igorlor.github.io/myweb/project/index.xml</link>
     <description>Recent content in Project-rsses on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>CyRAIL Project</title>
-      <link>https://example.com/project/cyrail/</link>
+      <link>https://igorlor.github.io/myweb/project/cyrail/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/cyrail/</guid>
+      <guid>https://igorlor.github.io/myweb/project/cyrail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SECRET Project</title>
-      <link>https://example.com/project/secret/</link>
+      <link>https://igorlor.github.io/myweb/project/secret/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/secret/</guid>
+      <guid>https://igorlor.github.io/myweb/project/secret/</guid>
       <description></description>
     </item>
     
