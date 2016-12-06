@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Website</title>
-    <link>https://igorlor.github.io/myweb/index.xml</link>
+    <link>http://igorlopez.com/index.xml</link>
     <description>Recent content on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,55 +12,55 @@
     
     <item>
       <title>UIC Innovation &amp; Research Award</title>
-      <link>https://igorlor.github.io/myweb/post/uic-award/</link>
+      <link>http://igorlopez.com/post/uic-award/</link>
       <pubDate>Thu, 01 Dec 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/post/uic-award/</guid>
+      <guid>http://igorlopez.com/post/uic-award/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Step Up in European Rail Traffic Management Systems: A Seamless Fail Recovery Scheme</title>
-      <link>https://igorlor.github.io/myweb/publication/step-up/</link>
+      <link>http://igorlopez.com/publication/step-up/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/publication/step-up/</guid>
+      <guid>http://igorlopez.com/publication/step-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CyRAIL Project</title>
-      <link>https://igorlor.github.io/myweb/project/cyrail/</link>
+      <link>http://igorlopez.com/project/cyrail/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/project/cyrail/</guid>
+      <guid>http://igorlopez.com/project/cyrail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SECRET Project</title>
-      <link>https://igorlor.github.io/myweb/project/secret/</link>
+      <link>http://igorlopez.com/project/secret/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/project/secret/</guid>
+      <guid>http://igorlopez.com/project/secret/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyber security analysis of the European train control system</title>
-      <link>https://igorlor.github.io/myweb/publication/cybersec-comm/</link>
+      <link>http://igorlopez.com/publication/cybersec-comm/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/publication/cybersec-comm/</guid>
+      <guid>http://igorlopez.com/publication/cybersec-comm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First promotion award</title>
-      <link>https://igorlor.github.io/myweb/post/first-promotion/</link>
+      <link>http://igorlopez.com/post/first-promotion/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/post/first-promotion/</guid>
+      <guid>http://igorlopez.com/post/first-promotion/</guid>
       <description></description>
     </item>
     
