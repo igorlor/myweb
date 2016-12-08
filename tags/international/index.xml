@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Website</title>
-    <link>https://igorlor.github.io/myweb/tags/international/index.xml</link>
+    <link>http://www.igorlopez.com/tags/international/index.xml</link>
     <description>Recent content on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,19 +11,19 @@
     
     <item>
       <title>CyRAIL Project</title>
-      <link>https://igorlor.github.io/myweb/project/cyrail/</link>
+      <link>http://www.igorlopez.com/project/cyrail/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/project/cyrail/</guid>
+      <guid>http://www.igorlopez.com/project/cyrail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SECRET Project</title>
-      <link>https://igorlor.github.io/myweb/project/secret/</link>
+      <link>http://www.igorlopez.com/project/secret/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://igorlor.github.io/myweb/project/secret/</guid>
+      <guid>http://www.igorlopez.com/project/secret/</guid>
       <description></description>
     </item>
     
